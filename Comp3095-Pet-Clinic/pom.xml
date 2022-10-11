@@ -17,7 +17,7 @@
     </properties>
     <scm>
         <developerConnection>scm:git:https://github.com/josiah34/comp3095-lab.git</developerConnection>
-        <tag>pet-clinic-0.0.1</tag>
+        <tag>pet-clinic-0.0.2</tag>
     </scm>
 
     <dependencies>
