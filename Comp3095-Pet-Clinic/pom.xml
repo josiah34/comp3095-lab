@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>pet-clinic</name>
     <description>pet-clinic</description>
     <properties>
@@ -17,7 +17,8 @@
     </properties>
     <scm>
         <developerConnection>scm:git:https://github.com/josiah34/comp3095-lab.git</developerConnection>
-    </scm>
+      <tag>HEAD</tag>
+  </scm>
 
     <dependencies>
         <dependency>
